@@ -66,4 +66,23 @@ O site é composto por **quatro páginas principais**, todas seguindo o mesmo pa
 ---
 
 ## 📁 Organização de Arquivos
+```
+/site-de-clinica-medica/
+│
+├── index.html
+├── sobre.html
+├── horarios.html 
+├── contato.html 
+├── style.css
+├── /assect/ 
+│ ├── header-principal.jpg 
+│ ├── logo.png 
+└── README.md
+```
+## 🚀 Desafio Concluído
 
+Com base nos conteúdos abordados no módulo, este site demonstra o uso prático de HTML para construir páginas informativas, interativas e visualmente agradáveis. O projeto pode ser expandido com CSS avançado, JavaScript e integração com backend futuramente.
+
+---
+
+**Bons estudos e viva sua beleza com Essenza Estética! 💖**
